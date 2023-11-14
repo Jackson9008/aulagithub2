@@ -1,0 +1,7 @@
+.caixa-vendas {
+    display: flex;
+    align-items: normal;
+    justify-content: center;
+    padding: auto;
+    background-color: red;
+}
